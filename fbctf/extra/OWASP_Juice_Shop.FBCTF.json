@@ -1,0 +1,2952 @@
+{
+  "logos": {
+    "logos": [
+      {
+        "name": "admin",
+        "logo": "/static/svg/icons/badges/badge-admin.svg",
+        "used": true,
+        "enabled": true,
+        "protected": true,
+        "custom": false
+      },
+      {
+        "name": "4chan-2",
+        "logo": "/static/svg/icons/badges/badge-4chan-2.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "4chan",
+        "logo": "/static/svg/icons/badges/badge-4chan.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "8ball",
+        "logo": "/static/svg/icons/badges/badge-8ball.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "alien-2",
+        "logo": "/static/svg/icons/badges/badge-alien-2.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "alien-3",
+        "logo": "/static/svg/icons/badges/badge-alien-3.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "alien",
+        "logo": "/static/svg/icons/badges/badge-alien.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "anchor",
+        "logo": "/static/svg/icons/badges/badge-anchor.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "apple",
+        "logo": "/static/svg/icons/badges/badge-apple.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "atom",
+        "logo": "/static/svg/icons/badges/badge-atom.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "ax",
+        "logo": "/static/svg/icons/badges/badge-ax.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "b",
+        "logo": "/static/svg/icons/badges/badge-b.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "bar-graph",
+        "logo": "/static/svg/icons/badges/badge-bar-graph.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "barking",
+        "logo": "/static/svg/icons/badges/badge-barking.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "baseball",
+        "logo": "/static/svg/icons/badges/badge-baseball.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "basketball-hoop",
+        "logo": "/static/svg/icons/badges/badge-basketball-hoop.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "basketball",
+        "logo": "/static/svg/icons/badges/badge-basketball.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "bat",
+        "logo": "/static/svg/icons/badges/badge-bat.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "batman",
+        "logo": "/static/svg/icons/badges/badge-batman.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "battery",
+        "logo": "/static/svg/icons/badges/badge-battery.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "beaker",
+        "logo": "/static/svg/icons/badges/badge-beaker.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "bike",
+        "logo": "/static/svg/icons/badges/badge-bike.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "bluetooth",
+        "logo": "/static/svg/icons/badges/badge-bluetooth.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "boba-fett",
+        "logo": "/static/svg/icons/badges/badge-boba-fett.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "bomb",
+        "logo": "/static/svg/icons/badges/badge-bomb.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "bone",
+        "logo": "/static/svg/icons/badges/badge-bone.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "boomerang",
+        "logo": "/static/svg/icons/badges/badge-boomerang.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "bow-arrow",
+        "logo": "/static/svg/icons/badges/badge-bow-arrow.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "bowling-ball",
+        "logo": "/static/svg/icons/badges/badge-bowling-ball.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "bowling-pin",
+        "logo": "/static/svg/icons/badges/badge-bowling-pin.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "bowtie",
+        "logo": "/static/svg/icons/badges/badge-bowtie.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "box",
+        "logo": "/static/svg/icons/badges/badge-box.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "boxing-glove",
+        "logo": "/static/svg/icons/badges/badge-boxing-glove.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "broomstick",
+        "logo": "/static/svg/icons/badges/badge-broomstick.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "burger",
+        "logo": "/static/svg/icons/badges/badge-burger.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "c3po",
+        "logo": "/static/svg/icons/badges/badge-c3po.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "cactus",
+        "logo": "/static/svg/icons/badges/badge-cactus.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "california",
+        "logo": "/static/svg/icons/badges/badge-california.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "camera",
+        "logo": "/static/svg/icons/badges/badge-camera.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "captain-america",
+        "logo": "/static/svg/icons/badges/badge-captain-america.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "car",
+        "logo": "/static/svg/icons/badges/badge-car.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "cat",
+        "logo": "/static/svg/icons/badges/badge-cat.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "centaur",
+        "logo": "/static/svg/icons/badges/badge-centaur.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "checkmark",
+        "logo": "/static/svg/icons/badges/badge-checkmark.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "cherry",
+        "logo": "/static/svg/icons/badges/badge-cherry.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "chess-knight",
+        "logo": "/static/svg/icons/badges/badge-chess-knight.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "chess-rook",
+        "logo": "/static/svg/icons/badges/badge-chess-rook.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "chevron-corporal",
+        "logo": "/static/svg/icons/badges/badge-chevron-corporal.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "chevron-flag",
+        "logo": "/static/svg/icons/badges/badge-chevron-flag.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "cloud",
+        "logo": "/static/svg/icons/badges/badge-cloud.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "coffee",
+        "logo": "/static/svg/icons/badges/badge-coffee.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "command",
+        "logo": "/static/svg/icons/badges/badge-command.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "compass",
+        "logo": "/static/svg/icons/badges/badge-compass.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "computer-mouse",
+        "logo": "/static/svg/icons/badges/badge-computer-mouse.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "cone",
+        "logo": "/static/svg/icons/badges/badge-cone.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "corndog",
+        "logo": "/static/svg/icons/badges/badge-corndog.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "crown",
+        "logo": "/static/svg/icons/badges/badge-crown.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "cupcake",
+        "logo": "/static/svg/icons/badges/badge-cupcake.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "cursor",
+        "logo": "/static/svg/icons/badges/badge-cursor.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "darth-vader",
+        "logo": "/static/svg/icons/badges/badge-darth-vader.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "deadpool",
+        "logo": "/static/svg/icons/badges/badge-deadpool.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "deal-with-it",
+        "logo": "/static/svg/icons/badges/badge-deal-with-it.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "deathly-hollows",
+        "logo": "/static/svg/icons/badges/badge-deathly-hollows.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "diamond",
+        "logo": "/static/svg/icons/badges/badge-diamond.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "dirtbike",
+        "logo": "/static/svg/icons/badges/badge-dirtbike.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "dog",
+        "logo": "/static/svg/icons/badges/badge-dog.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "double-ax",
+        "logo": "/static/svg/icons/badges/badge-double-ax.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "drop",
+        "logo": "/static/svg/icons/badges/badge-drop.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "dumbell",
+        "logo": "/static/svg/icons/badges/badge-dumbell.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "egg",
+        "logo": "/static/svg/icons/badges/badge-egg.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "elephant",
+        "logo": "/static/svg/icons/badges/badge-elephant.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "eye",
+        "logo": "/static/svg/icons/badges/badge-eye.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "face-cloud",
+        "logo": "/static/svg/icons/badges/badge-face-cloud.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "face-helmeted",
+        "logo": "/static/svg/icons/badges/badge-face-helmeted.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "face-sad",
+        "logo": "/static/svg/icons/badges/badge-face-sad.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "face-star",
+        "logo": "/static/svg/icons/badges/badge-face-star.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "face-toast",
+        "logo": "/static/svg/icons/badges/badge-face-toast.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "face-tongue",
+        "logo": "/static/svg/icons/badges/badge-face-tongue.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "feather",
+        "logo": "/static/svg/icons/badges/badge-feather.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "flag",
+        "logo": "/static/svg/icons/badges/badge-flag.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "flower-2",
+        "logo": "/static/svg/icons/badges/badge-flower-2.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "flower",
+        "logo": "/static/svg/icons/badges/badge-flower.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "football",
+        "logo": "/static/svg/icons/badges/badge-football.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "fork",
+        "logo": "/static/svg/icons/badges/badge-fork.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "fries",
+        "logo": "/static/svg/icons/badges/badge-fries.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "game-controller",
+        "logo": "/static/svg/icons/badges/badge-game-controller.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "glasses",
+        "logo": "/static/svg/icons/badges/badge-glasses.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "green-lantern",
+        "logo": "/static/svg/icons/badges/badge-green-lantern.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "guy-fawkes",
+        "logo": "/static/svg/icons/badges/badge-guy-fawkes.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "hat-viking",
+        "logo": "/static/svg/icons/badges/badge-hat-viking.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "hat-witch",
+        "logo": "/static/svg/icons/badges/badge-hat-witch.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "head-lego",
+        "logo": "/static/svg/icons/badges/badge-head-lego.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "headphones",
+        "logo": "/static/svg/icons/badges/badge-headphones.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "heart",
+        "logo": "/static/svg/icons/badges/badge-heart.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "high-heel",
+        "logo": "/static/svg/icons/badges/badge-high-heel.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "home",
+        "logo": "/static/svg/icons/badges/badge-home.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "hook",
+        "logo": "/static/svg/icons/badges/badge-hook.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "hotdog",
+        "logo": "/static/svg/icons/badges/badge-hotdog.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "html-file-2",
+        "logo": "/static/svg/icons/badges/badge-html-file-2.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "html-file",
+        "logo": "/static/svg/icons/badges/badge-html-file.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "html",
+        "logo": "/static/svg/icons/badges/badge-html.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "ice-cream",
+        "logo": "/static/svg/icons/badges/badge-ice-cream.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "infinity",
+        "logo": "/static/svg/icons/badges/badge-infinity.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "invader-2",
+        "logo": "/static/svg/icons/badges/badge-invader-2.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "invader",
+        "logo": "/static/svg/icons/badges/badge-invader.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "iron-man",
+        "logo": "/static/svg/icons/badges/badge-iron-man.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "jack-o-lantern",
+        "logo": "/static/svg/icons/badges/badge-jack-o-lantern.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "jeep",
+        "logo": "/static/svg/icons/badges/badge-jeep.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "kangaroo",
+        "logo": "/static/svg/icons/badges/badge-kangaroo.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "kanye-glasses",
+        "logo": "/static/svg/icons/badges/badge-kanye-glasses.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "key",
+        "logo": "/static/svg/icons/badges/badge-key.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "kite",
+        "logo": "/static/svg/icons/badges/badge-kite.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "knife",
+        "logo": "/static/svg/icons/badges/badge-knife.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "lightbulb",
+        "logo": "/static/svg/icons/badges/badge-lightbulb.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "lightning",
+        "logo": "/static/svg/icons/badges/badge-lightning.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "location",
+        "logo": "/static/svg/icons/badges/badge-location.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "man-newspaper",
+        "logo": "/static/svg/icons/badges/badge-man-newspaper.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "marker",
+        "logo": "/static/svg/icons/badges/badge-marker.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "monkey",
+        "logo": "/static/svg/icons/badges/badge-monkey.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "monopoly-man",
+        "logo": "/static/svg/icons/badges/badge-monopoly-man.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "moon",
+        "logo": "/static/svg/icons/badges/badge-moon.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "moustache",
+        "logo": "/static/svg/icons/badges/badge-moustache.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "music",
+        "logo": "/static/svg/icons/badges/badge-music.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "mystery-man",
+        "logo": "/static/svg/icons/badges/badge-mystery-man.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "nascar",
+        "logo": "/static/svg/icons/badges/badge-nascar.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "pacman-ghost",
+        "logo": "/static/svg/icons/badges/badge-pacman-ghost.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "pacman",
+        "logo": "/static/svg/icons/badges/badge-pacman.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "paperclip",
+        "logo": "/static/svg/icons/badges/badge-paperclip.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "peace-sign",
+        "logo": "/static/svg/icons/badges/badge-peace-sign.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "peace",
+        "logo": "/static/svg/icons/badges/badge-peace.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "pencil-sharpener",
+        "logo": "/static/svg/icons/badges/badge-pencil-sharpener.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "penguin",
+        "logo": "/static/svg/icons/badges/badge-penguin.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "penrose-triangle",
+        "logo": "/static/svg/icons/badges/badge-penrose-triangle.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "pi",
+        "logo": "/static/svg/icons/badges/badge-pi.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "picasa",
+        "logo": "/static/svg/icons/badges/badge-picasa.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "plane",
+        "logo": "/static/svg/icons/badges/badge-plane.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "plasma-gun",
+        "logo": "/static/svg/icons/badges/badge-plasma-gun.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "plug",
+        "logo": "/static/svg/icons/badges/badge-plug.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "pokemon",
+        "logo": "/static/svg/icons/badges/badge-pokemon.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "puma",
+        "logo": "/static/svg/icons/badges/badge-puma.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "pyramid",
+        "logo": "/static/svg/icons/badges/badge-pyramid.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "r2d2",
+        "logo": "/static/svg/icons/badges/badge-r2d2.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "radiation",
+        "logo": "/static/svg/icons/badges/badge-radiation.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "rainbow",
+        "logo": "/static/svg/icons/badges/badge-rainbow.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "reset",
+        "logo": "/static/svg/icons/badges/badge-reset.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "revolver",
+        "logo": "/static/svg/icons/badges/badge-revolver.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "robber",
+        "logo": "/static/svg/icons/badges/badge-robber.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "robot",
+        "logo": "/static/svg/icons/badges/badge-robot.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "rocker",
+        "logo": "/static/svg/icons/badges/badge-rocker.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "rocket",
+        "logo": "/static/svg/icons/badges/badge-rocket.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "rollerblade",
+        "logo": "/static/svg/icons/badges/badge-rollerblade.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "sailboat",
+        "logo": "/static/svg/icons/badges/badge-sailboat.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "saturn",
+        "logo": "/static/svg/icons/badges/badge-saturn.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "sauron",
+        "logo": "/static/svg/icons/badges/badge-sauron.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "sharethis",
+        "logo": "/static/svg/icons/badges/badge-sharethis.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "shark",
+        "logo": "/static/svg/icons/badges/badge-shark.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "shirt",
+        "logo": "/static/svg/icons/badges/badge-shirt.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "shoe",
+        "logo": "/static/svg/icons/badges/badge-shoe.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "skateboard",
+        "logo": "/static/svg/icons/badges/badge-skateboard.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "skateboarder",
+        "logo": "/static/svg/icons/badges/badge-skateboarder.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "skiier",
+        "logo": "/static/svg/icons/badges/badge-skiier.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "skull-crossbones",
+        "logo": "/static/svg/icons/badges/badge-skull-crossbones.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "snowboarder",
+        "logo": "/static/svg/icons/badges/badge-snowboarder.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "soccerball",
+        "logo": "/static/svg/icons/badges/badge-soccerball.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "sock",
+        "logo": "/static/svg/icons/badges/badge-sock.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "spaceship-2",
+        "logo": "/static/svg/icons/badges/badge-spaceship-2.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "spaceship",
+        "logo": "/static/svg/icons/badges/badge-spaceship.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "speech-bubble",
+        "logo": "/static/svg/icons/badges/badge-speech-bubble.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "speeding-ball",
+        "logo": "/static/svg/icons/badges/badge-speeding-ball.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "spiderweb",
+        "logo": "/static/svg/icons/badges/badge-spiderweb.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "stars",
+        "logo": "/static/svg/icons/badges/badge-stars.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "stereo",
+        "logo": "/static/svg/icons/badges/badge-stereo.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "stormtrooper",
+        "logo": "/static/svg/icons/badges/badge-stormtrooper.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "swimmer",
+        "logo": "/static/svg/icons/badges/badge-swimmer.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "swords",
+        "logo": "/static/svg/icons/badges/badge-swords.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "tank",
+        "logo": "/static/svg/icons/badges/badge-tank.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "tennis",
+        "logo": "/static/svg/icons/badges/badge-tennis.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "tetris-j",
+        "logo": "/static/svg/icons/badges/badge-tetris-j.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "tetris-t",
+        "logo": "/static/svg/icons/badges/badge-tetris-t.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "tetris-z",
+        "logo": "/static/svg/icons/badges/badge-tetris-z.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "thors-hammer",
+        "logo": "/static/svg/icons/badges/badge-thors-hammer.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "throwing-star",
+        "logo": "/static/svg/icons/badges/badge-throwing-star.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "thumbsup",
+        "logo": "/static/svg/icons/badges/badge-thumbsup.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "tooth",
+        "logo": "/static/svg/icons/badges/badge-tooth.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "tophat",
+        "logo": "/static/svg/icons/badges/badge-tophat.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "traffic-cone",
+        "logo": "/static/svg/icons/badges/badge-traffic-cone.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "trophy",
+        "logo": "/static/svg/icons/badges/badge-trophy.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "turkey-leg",
+        "logo": "/static/svg/icons/badges/badge-turkey-leg.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "umbrella",
+        "logo": "/static/svg/icons/badges/badge-umbrella.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "unicorn",
+        "logo": "/static/svg/icons/badges/badge-unicorn.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "unicycle",
+        "logo": "/static/svg/icons/badges/badge-unicycle.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "vampire",
+        "logo": "/static/svg/icons/badges/badge-vampire.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "venn-diagram",
+        "logo": "/static/svg/icons/badges/badge-venn-diagram.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "volleyball",
+        "logo": "/static/svg/icons/badges/badge-volleyball.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "vulcan-salute",
+        "logo": "/static/svg/icons/badges/badge-vulcan-salute.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "watch",
+        "logo": "/static/svg/icons/badges/badge-watch.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "watergun",
+        "logo": "/static/svg/icons/badges/badge-watergun.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "whale",
+        "logo": "/static/svg/icons/badges/badge-whale.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "whistle",
+        "logo": "/static/svg/icons/badges/badge-whistle.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "wifi",
+        "logo": "/static/svg/icons/badges/badge-wifi.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "x-and-o",
+        "logo": "/static/svg/icons/badges/badge-x-and-o.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      },
+      {
+        "name": "x-men",
+        "logo": "/static/svg/icons/badges/badge-x-men.svg",
+        "used": true,
+        "enabled": true,
+        "protected": false,
+        "custom": false
+      }
+    ]
+  },
+  "teams": {
+    "teams": [
+      {
+        "name": "pFD4nDS2rKfC5OgjQF5HGGwqD6wN7O8A",
+        "active": false,
+        "admin": false,
+        "protected": false,
+        "visible": false,
+        "password_hash": "$2a$12$b2ESYLE7fdApA0qtV450VObgy3bIScLG8cyB2vtd2xzhcnmW0643K",
+        "points": 0,
+        "logo": "4chan-2",
+        "data": {}
+      }
+    ]
+  },
+  "categories": {
+    "categories": [
+      {
+        "category": "Difficulty 1",
+        "protected": false
+      },
+      {
+        "category": "Difficulty 2",
+        "protected": false
+      },
+      {
+        "category": "Difficulty 3",
+        "protected": false
+      },
+      {
+        "category": "Difficulty 4",
+        "protected": false
+      },
+      {
+        "category": "Difficulty 5",
+        "protected": false
+      },
+      {
+        "category": "Difficulty 6",
+        "protected": false
+      },
+      {
+        "category": "None",
+        "protected": true
+      },
+      {
+        "category": "Quiz",
+        "protected": true
+      }
+    ]
+  },
+  "levels": {
+    "levels": [
+      {
+        "type": "flag",
+        "title": "Score Board",
+        "active": true,
+        "description": "Find the carefully hidden 'Score Board' page.",
+        "entity_iso_code": "CA",
+        "category": "Difficulty 1",
+        "points": 100,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "2614339936e8282e2f820f023d4d998a1f95e02a",
+        "hint": "Try to find a reference or clue behind the scenes. Or simply guess what URL the Score Board might have.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/score-board.html#find-the-carefully-hidden-score-board-page",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Email Leak",
+        "active": true,
+        "description": "Perform an unwanted information disclosure by accessing data cross-domain.",
+        "entity_iso_code": "BH",
+        "category": "Difficulty 5",
+        "points": 1000,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "dc09eb2b8517008ab65730f7355443a7f4bc8326",
+        "hint": "Try to find and attack an endpoint that responds with user information. SQL Injection is not the solution here.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/sensitive-data-exposure.html#perform-an-unwanted-information-disclosure-by-accessing-data-cross-domain",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Error Handling",
+        "active": true,
+        "description": "Provoke an error that is not very gracefully handled.",
+        "entity_iso_code": "AT",
+        "category": "Difficulty 1",
+        "points": 100,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "9c297196ecf8890bc1e900fcf3aebae8c9f9880a",
+        "hint": "Try to submit bad input to forms. Alternatively tamper with URL paths or parameters.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/security-misconfiguration.html#provoke-an-error-that-is-not-very-gracefully-handled",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Forged Review",
+        "active": true,
+        "description": "Post a product review as another user or edit any user's existing review.",
+        "entity_iso_code": "IL",
+        "category": "Difficulty 3",
+        "points": 450,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "2d542917ab9cd27314b53b9c85f956af461a550d",
+        "hint": "Observe the flow of product review posting and editing and see if you can exploit it.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/broken-access-control.html#post-a-product-review-as-another-user-or-edit-any-users-existing-review",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Login Admin",
+        "active": true,
+        "description": "Log in with the administrator's user account.",
+        "entity_iso_code": "RU",
+        "category": "Difficulty 2",
+        "points": 250,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "690fa3247a99d651e0b26f947baf0b79b4f404a9",
+        "hint": "Try different SQL Injection attack patterns depending whether you know the admin's email address or not.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/injection.html#log-in-with-the-administrators-user-account",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Login Jim",
+        "active": true,
+        "description": "Log in with Jim's user account.",
+        "entity_iso_code": "HN",
+        "category": "Difficulty 3",
+        "points": 450,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "de0806c1e34a5783b4b1672fa4eed440a9912378",
+        "hint": "Try cracking Jim's password hash if you harvested it already. Alternatively, if you know Jim's email address, try SQL Injection.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/injection.html#log-in-with-jims-user-account",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Login Bender",
+        "active": true,
+        "description": "Log in with Bender's user account.",
+        "entity_iso_code": "GT",
+        "category": "Difficulty 3",
+        "points": 450,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "5ff5052e879e6fef64124e64c82c84ebc809c6c4",
+        "hint": "If you know Bender's email address, try SQL Injection. Bender's password hash might not help you very much.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/injection.html#log-in-with-benders-user-account",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Password Strength",
+        "active": true,
+        "description": "Log in with the administrator's user credentials without previously changing them or applying SQL Injection.",
+        "entity_iso_code": "MG",
+        "category": "Difficulty 2",
+        "points": 250,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "ff4aebffe31b0ffdea9bdd0207a16a3c01ac6c56",
+        "hint": "This one should be equally easy to a) brute force, b) crack the password hash or c) simply guess.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/broken-authentication.html#log-in-with-the-administrators-user-credentials-without-previously-changing-them-or-applying-sql-injection",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Five-Star Feedback",
+        "active": true,
+        "description": "Get rid of all 5-star customer feedback.",
+        "entity_iso_code": "BZ",
+        "category": "Difficulty 2",
+        "points": 250,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "78231b75c0b2180b7e964dcbb1ab3c3f58639f2e",
+        "hint": "Once you found admin section of the application, this challenge is almost trivial.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/broken-access-control.html#get-rid-of-all-5-star-customer-feedback",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Forged Feedback",
+        "active": true,
+        "description": "Post some feedback in another users name.",
+        "entity_iso_code": "KP",
+        "category": "Difficulty 3",
+        "points": 450,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "b3245d86c5b5a6e10a1319aebced515c1763b754",
+        "hint": "You can solve this by tampering with the user interface or by intercepting the communication with the RESTful backend.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/broken-access-control.html#post-some-feedback-in-another-users-name",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Redirects Tier 1",
+        "active": true,
+        "description": "Let us redirect you to a donation site that went out of business.",
+        "entity_iso_code": "KR",
+        "category": "Difficulty 1",
+        "points": 100,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "1ef138e2c124611360a5875bb0ef021c59ec5869",
+        "hint": "We might have failed to take this out of our code properly.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/forgotten-content.html#let-us-redirect-you-to-a-donation-site-that-went-out-of-business",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Redirects Tier 2",
+        "active": true,
+        "description": "Wherever you go, there you are.",
+        "entity_iso_code": "BY",
+        "category": "Difficulty 4",
+        "points": 700,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "17781992a4b425e919b2b02f934e288c4117b812",
+        "hint": "You have to find a way to beat the whitelist of allowed redirect URLs.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/roll-your-own-security.html#wherever-you-go-there-you-are",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Basket Access Tier 1",
+        "active": true,
+        "description": "View another user's shopping basket.",
+        "entity_iso_code": "BO",
+        "category": "Difficulty 2",
+        "points": 250,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "374c0eeed527cc04f8a61d8932354aa563bdfa28",
+        "hint": "Have an eye on the HTTP traffic while shopping. Alternatively try to find a client-side association of users to their basket.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/broken-access-control.html#view-another-users-shopping-basket",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Basket Access Tier 2",
+        "active": true,
+        "description": "Put an additional product into another user's shopping basket.",
+        "entity_iso_code": "BT",
+        "category": "Difficulty 3",
+        "points": 450,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "d57153430a1c0b99cc3802fd45327f89c4eecae8",
+        "hint": "Have an eye on the HTTP traffic while placing products in the shopping basket. Changing the quantity of products already in the basket doesn't count.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/broken-access-control.html#put-an-additional-product-into-another-users-shopping-basket",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Payback Time",
+        "active": true,
+        "description": "Place an order that makes you rich.",
+        "entity_iso_code": "CH",
+        "category": "Difficulty 3",
+        "points": 450,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "bccfc69b31482f1eaa399e6ded3cce938b9fc219",
+        "hint": "You literally need to make the shop owe you any amount of money.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/improper-input-validation.html#place-an-order-that-makes-you-rich",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Confidential Document",
+        "active": true,
+        "description": "Access a confidential document.",
+        "entity_iso_code": "PE",
+        "category": "Difficulty 1",
+        "points": 100,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "8d2072c6b0a455608ca1a293dc0c9579883fc6a5",
+        "hint": "Analyze and tamper with links in the application that deliver a file directly.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/sensitive-data-exposure.html#access-a-confidential-document",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Forgotten Developer Backup",
+        "active": true,
+        "description": "Access a developer's forgotten backup file.",
+        "entity_iso_code": "UA",
+        "category": "Difficulty 4",
+        "points": 700,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "dad737329153068527159005db4eb139e86e76ba",
+        "hint": "You need to trick a security mechanism into thinking that the file you want has a valid file type.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/roll-your-own-security.html#access-a-developers-forgotten-backup-file",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Forgotten Sales Backup",
+        "active": true,
+        "description": "Access a salesman's forgotten backup file.",
+        "entity_iso_code": "US",
+        "category": "Difficulty 3",
+        "points": 450,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "9854fa972c745fa0e8a55f0687528b1f483856b1",
+        "hint": "You need to trick a security mechanism into thinking that the file you want has a valid file type.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/security-misconfiguration.html#access-a-salesmans-forgotten-backup-file",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Admin Section",
+        "active": true,
+        "description": "Access the administration section of the store.",
+        "entity_iso_code": "TR",
+        "category": "Difficulty 1",
+        "points": 100,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "71aeb3b0bf01cc6e488f0207bb62f79b41454a87",
+        "hint": "It is just slightly harder to find than the score board link.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/broken-access-control.html#access-the-administration-section-of-the-store",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Product Tampering",
+        "active": true,
+        "description": "Change the <code>href</code> of the link within the <a href=\"/#/search?q=OWASP SSL Advanced Forensic Tool (O-Saft)\">OWASP SSL Advanced Forensic Tool (O-Saft)</a> product description into <i>http://kimminich.de</i>.",
+        "entity_iso_code": "CO",
+        "category": "Difficulty 3",
+        "points": 450,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "7513f97578391e85282583fd084bc3a649f1d25f",
+        "hint": "Look for one of the following: a) broken admin functionality, b) holes in RESTful API or c) possibility for SQL Injection.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/broken-access-control.html#change-the-href-of-the-link-within-the-o-saft-product-description",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Vulnerable Library",
+        "active": true,
+        "description": "<a href=\"/#/contact\">Inform the shop</a> about a vulnerable library it is using. (Mention the exact library name and version in your comment)",
+        "entity_iso_code": "PL",
+        "category": "Difficulty 4",
+        "points": 700,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "d6c3b1f0724fd3dbf4272c127a790c39a200876b",
+        "hint": "Report one of two possible answers via the \"Contact Us\" form. Do not forget to submit the library's version as well.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/vulnerable-components.html#inform-the-shop-about-a-vulnerable-library-it-is-using",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Weird Crypto",
+        "active": true,
+        "description": "<a href=\"/#/contact\">Inform the shop</a> about an algorithm or library it should definitely not use the way it does.",
+        "entity_iso_code": "EC",
+        "category": "Difficulty 2",
+        "points": 250,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "84054d82b9a99da2db6392744dad1e7e28bd2cca",
+        "hint": "Report one of four possible answers via the \"Contact Us\" form.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/sensitive-data-exposure.html#inform-the-shop-about-an-algorithm-or-library-it-should-definitely-not-use-the-way-it-does",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Easter Egg Tier 1",
+        "active": true,
+        "description": "Find the hidden <a href=\"http://en.wikipedia.org/wiki/Easter_egg_(media)\" target=\"_blank\">easter egg</a>.",
+        "entity_iso_code": "LK",
+        "category": "Difficulty 4",
+        "points": 700,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "e6413d78562d20e2c4584f717e6c4d3b14f6a5ae",
+        "hint": "If you solved one of the three file access challenges, you already know where to find the easter egg.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/roll-your-own-security.html#find-the-hidden-easter-egg",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Easter Egg Tier 2",
+        "active": true,
+        "description": "Apply some advanced cryptanalysis to find <i>the real</i> easter egg.",
+        "entity_iso_code": "ER",
+        "category": "Difficulty 4",
+        "points": 700,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "aad7acc02c5b4fd25226374ce3c114f97b19e8ee",
+        "hint": "You might have to peel through several layers of tough-as-nails encryption for this challenge.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/security-through-obscurity.html#apply-some-advanced-cryptanalysis-to-find-the-real-easter-egg",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Forged Coupon",
+        "active": true,
+        "description": "Forge a coupon code that gives you a discount of at least 80%.",
+        "entity_iso_code": "PA",
+        "category": "Difficulty 6",
+        "points": 1350,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "10e04eb4104bd61f5fafc77c844d4d70b3f33f08",
+        "hint": "Try either a) a knowledgable brute force attack or b) reverse engineering.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/sensitive-data-exposure.html#forge-a-coupon-code-that-gives-you-a-discount-of-at-least-80",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Upload Size",
+        "active": true,
+        "description": "Upload a file larger than 100 kB.",
+        "entity_iso_code": "GF",
+        "category": "Difficulty 3",
+        "points": 450,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "e3b59553d1be5291f45a76abe8291e3b666272d7",
+        "hint": "You can attach a small file to the \"File Complaint\" form. Investigate how this upload actually works.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/improper-input-validation.html#upload-a-file-larger-than-100-kb",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Upload Type",
+        "active": true,
+        "description": "Upload a file that has no .pdf extension.",
+        "entity_iso_code": "SA",
+        "category": "Difficulty 3",
+        "points": 450,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "3ca7d41d1c903c5ae68c2f713c9f875db870aca0",
+        "hint": "You can attach a PDF file to the \"File Complaint\" form. Investigate how this upload actually works.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/improper-input-validation.html#upload-a-file-that-has-no-pdf-extension",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Arbitrary File Write",
+        "active": true,
+        "description": "Overwrite the <a href=\"/ftp/legal.md\">Legal Information</a> file.",
+        "entity_iso_code": "IR",
+        "category": "Difficulty 6",
+        "points": 1350,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "7aec1a1f170062a5dc7f9d3502de999df9ff29df",
+        "hint": "Look out for a tweet praising new functionality of the web shop.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/vulnerable-components.html#overwrite-the-legal-information-file",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Extra Language",
+        "active": true,
+        "description": "Retrieve the language file that never made it into production.",
+        "entity_iso_code": "AU",
+        "category": "Difficulty 5",
+        "points": 1000,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "9bb1be0fc245910b356fdac4e78e315d58d810af",
+        "hint": "Brute force is not the only option for this challenge, but a perfectly viable one.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/forgotten-content.html#retrieve-the-language-file-that-never-made-it-into-production",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "CAPTCHA Bypass Tier 1",
+        "active": true,
+        "description": "Submit 10 or more customer feedbacks within 10 seconds.",
+        "entity_iso_code": "CI",
+        "category": "Difficulty 3",
+        "points": 450,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "9f41f46941d16fe68a542e5d3c3f7657fcd5ab97",
+        "hint": "After finding a CAPTCHA bypass, write a script that automates feedback submission. Or open many browser tabs and be really quick.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/roll-your-own-security.html#submit-10-or-more-customer-feedbacks-within-10-seconds",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Zero Stars",
+        "active": true,
+        "description": "Give a devastating zero-star feedback to the store.",
+        "entity_iso_code": "AR",
+        "category": "Difficulty 1",
+        "points": 100,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "e958569c4a12e3b97f38bd05cac3f0e5a1b17142",
+        "hint": "Before you invest time bypassing the API, you might want to play around with the UI a bit.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/improper-input-validation.html#give-a-devastating-zero-star-feedback-to-the-store",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Imaginary Challenge",
+        "active": true,
+        "description": "Solve challenge #999. Unfortunately, this challenge does not exist.",
+        "entity_iso_code": "MY",
+        "category": "Difficulty 6",
+        "points": 1350,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "3eb1eb054dc55a13772007ac980ca5bf310ee773",
+        "hint": "You need to trick the hacking progress persistence feature into thinking you solved challenge #999.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/sensitive-data-exposure.html#solve-challenge-999",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Login Bjoern",
+        "active": true,
+        "description": "Log in with Bjoern's Gmail account <i>without</i> previously changing his password, applying SQL Injection, or hacking his Google account.",
+        "entity_iso_code": "SS",
+        "category": "Difficulty 4",
+        "points": 700,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "5fb1dbd45670d209e1c48ed59222c2bca732d354",
+        "hint": "The security flaw behind this challenge is 100% Juice Shop's fault and 0% Google's.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/broken-authentication.html#log-in-with-bjoerns-gmail-account",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Login CISO",
+        "active": true,
+        "description": "Exploit OAuth 2.0 to log in with the Chief Information Security Officer's user account.",
+        "entity_iso_code": "AO",
+        "category": "Difficulty 5",
+        "points": 1000,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "a5977b3a2145da2ad667c167f9177afd4a8afddb",
+        "hint": "Don't try to beat Google's OAuth 2.0 service. Rather investigate implementation flaws on Juice Shop's end.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/broken-authentication.html#exploit-oauth-20-to-log-in-with-the-cisos-user-account",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Login Support Team",
+        "active": true,
+        "description": "Log in with the support team's original user credentials without applying SQL Injection or any other bypass.",
+        "entity_iso_code": "HR",
+        "category": "Difficulty 6",
+        "points": 1350,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "86c8986dff834112ed790d7d53dadb46e9dca210",
+        "hint": "The underlying flaw of this challenge is a lot more human error than technical weakness.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/security-misconfiguration.html#log-in-with-the-support-teams-original-user-credentials",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Login MC SafeSearch",
+        "active": true,
+        "description": "Log in with MC SafeSearch's original user credentials without applying SQL Injection or any other bypass.",
+        "entity_iso_code": "AL",
+        "category": "Difficulty 2",
+        "points": 250,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "bb105418e73708ceccf1a7b2491f434b8f5230e4",
+        "hint": "You should listen to MC's hit song \"Protect Ya Passwordz\".\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/sensitive-data-exposure.html#log-in-with-mc-safesearchs-original-user-credentials",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Premium Paywall",
+        "active": true,
+        "description": "<i class=\"far fa-gem\"></i><i class=\"far fa-gem\"></i><i class=\"far fa-gem\"></i><i class=\"far fa-gem\"></i><i class=\"far fa-gem\"></i><!--IvLuRfBJYlmStf9XfL6ckJFngyd9LfV1JaaN/KRTPQPidTuJ7FR+D/nkWJUF+0xUF07CeCeqYfxq+OJVVa0gNbqgYkUNvn//UbE7e95C+6e+7GtdpqJ8mqm4WcPvUGIUxmGLTTAC2+G9UuFCD1DUjg==--> <a href=\"/redirect?to=https://blockchain.info/address/1AbKfgvw9psQ41NbLi8kufDQTezwG8DRZm\" target=\"_blank\"><i class=\"fab fa-btc fa-sm\"></i> Unlock Premium Challenge</a> to access exclusive content.",
+        "entity_iso_code": "DZ",
+        "category": "Difficulty 6",
+        "points": 1350,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "41db0b8dbceb01d9737fceb888a1f24ddd8f1dff",
+        "hint": "You do not have to pay anything to unlock this challenge! Nonetheless, donations are very much appreciated.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/sensitive-data-exposure.html#unlock-premium-challenge-to-access-exclusive-content",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Reset Jim's Password",
+        "active": true,
+        "description": "Reset Jim's password via the <a href=\"/#/forgot-password\">Forgot Password</a> mechanism with <i>the original answer</i> to his security question.",
+        "entity_iso_code": "DO",
+        "category": "Difficulty 3",
+        "points": 450,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "3c3e2d6ef99b733b947e92f8e2a9ed08bf57ea63",
+        "hint": "It's hard for celebrities to pick a security question from a hard-coded list where the answer is not publicly exposed.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/broken-authentication.html#reset-jims-password-via-the-forgot-password-mechanism",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Reset Bender's Password",
+        "active": true,
+        "description": "Reset Bender's password via the <a href=\"/#/forgot-password\">Forgot Password</a> mechanism with <i>the original answer</i> to his security question.",
+        "entity_iso_code": "MD",
+        "category": "Difficulty 4",
+        "points": 700,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "a3ed0a02985a524747be405af69600b167ecae9a",
+        "hint": "Not as trivial as Jim's but still not too difficult with some \"Futurama\" background knowledge.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/broken-authentication.html#reset-benders-password-via-the-forgot-password-mechanism",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Reset Morty's Password",
+        "active": true,
+        "description": "Reset Morty's password via the <a href=\"/#/forgot-password\">Forgot Password</a> mechanism with <i>his obfuscated answer</i> to his security question.",
+        "entity_iso_code": "CZ",
+        "category": "Difficulty 5",
+        "points": 1000,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "c25ad846aad83cff51ef49167f6f54b467e731de",
+        "hint": "Find a way to bypass the rate limiting and brute force the obfuscated answer to Morty's security question.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/security-misconfiguration.html#reset-mortys-password-via-the-forgot-password-mechanism",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Reset Bjoern's Password Tier 2",
+        "active": true,
+        "description": "Reset the password of Bjoern's internal account via the <a href=\"/#/forgot-password\">Forgot Password</a> mechanism with <i>the original answer</i> to his security question.",
+        "entity_iso_code": "GE",
+        "category": "Difficulty 5",
+        "points": 1000,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "7220f11e79e15a9042f44e304d83fc0c9a7fc2f2",
+        "hint": "Nothing a little bit of Facebook stalking couldn't reveal. Might involve a historical twist.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/broken-authentication.html#reset-the-password-of-bjoerns-internal-account-via-the-forgot-password-mechanism",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "NoSQL Injection Tier 1",
+        "active": true,
+        "description": "Let the server sleep for some time. (It has done more than enough hard work for you)",
+        "entity_iso_code": "TT",
+        "category": "Difficulty 4",
+        "points": 700,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "3ed5adac1a0eef3e4e7f80b4f4f48032f560f8ff",
+        "hint": "This challenge is essentially a stripped-down Denial of Service (DoS) attack.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/injection.html#let-the-server-sleep-for-some-time",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "NoSQL Injection Tier 2",
+        "active": true,
+        "description": "Update multiple product reviews at the same time.",
+        "entity_iso_code": "AE",
+        "category": "Difficulty 4",
+        "points": 700,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "a3e13451e7b1f2a2642fd503e1996924d4f8f9b2",
+        "hint": "Take a close look on how the equivalent of UPDATE-statements in MongoDB work.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/injection.html#update-multiple-product-reviews-at-the-same-time",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "NoSQL Injection Tier 3",
+        "active": true,
+        "description": "All your orders are belong to us!",
+        "entity_iso_code": "EE",
+        "category": "Difficulty 5",
+        "points": 1000,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "dd19e6dfaa233ae1584e9b59c8b8f6d8b05eb2c6",
+        "hint": "Take a close look on how the $where query operator works in MongoDB.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/injection.html#all-your-orders-are-belong-to-us",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Retrieve Blueprint",
+        "active": true,
+        "description": "Deprive the shop of earnings by downloading the blueprint for one of its products.",
+        "entity_iso_code": "VE",
+        "category": "Difficulty 5",
+        "points": 1000,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "5ec16347194b662a773887b63845315e8a3c7237",
+        "hint": "The product you might want to give a closer look is the OWASP Juice Shop Logo (3D-printed).\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/forgotten-content.html#deprive-the-shop-of-earnings-by-downloading-the-blueprint-for-one-of-its-products",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Typosquatting Tier 1",
+        "active": true,
+        "description": "<a href=\"/#/contact\">Inform the shop</a> about a <i>typosquatting</i> trick it has become victim of. (Mention the exact name of the culprit)",
+        "entity_iso_code": "NI",
+        "category": "Difficulty 4",
+        "points": 700,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "ebd3760caffb21387e2a76c2848c46d09fe1d789",
+        "hint": "This challenge has nothing to do with URLs or domains. Investigate the forgotten developer's backup file instead.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/vulnerable-components.html#inform-the-shop-about-a-typosquatting-trick-it-has-become-victim-of",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Typosquatting Tier 2",
+        "active": true,
+        "description": "<a href=\"/#/contact\">Inform the shop</a> about a more sneaky instance of <i>typosquatting</i> it fell for. (Mention the exact name of the culprit)",
+        "entity_iso_code": "SN",
+        "category": "Difficulty 5",
+        "points": 1000,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "e85ae65ff340f0c321f3bfebdde0fdc090cf8d63",
+        "hint": "This challenge has nothing to do with URLs or domains. There is no conveniently misplaced file helping you with this one. Or is there?\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/vulnerable-components.html#inform-the-shop-about-a-more-sneaky-instance-of-typosquatting-it-fell-for",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "JWT Issues Tier 1",
+        "active": true,
+        "description": "Forge an essentially unsigned JWT token that impersonates the (non-existing) user <i>jwtn3d@juice-sh.op</i>.",
+        "entity_iso_code": "NZ",
+        "category": "Difficulty 5",
+        "points": 1000,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "effe8d0ea5b63c9cce136e7a7c036f92b8462b57",
+        "hint": "This challenge exploits a weird option that is supported when signing tokens with JWT.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/vulnerable-components.html#forge-an-essentially-unsigned-jwt-token",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "JWT Issues Tier 2",
+        "active": true,
+        "description": "Forge an almost properly RSA-signed JWT token that impersonates the (non-existing) user <i>rsa_lord@juice-sh.op</i>.",
+        "entity_iso_code": "MN",
+        "category": "Difficulty 6",
+        "points": 1350,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "4deafde66be6408160e98d67dd332fcd41587d3f",
+        "hint": "This challenge is explicitly not about acquiring the RSA private key used for JWT signing.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/vulnerable-components.html#forge-an-almost-properly-rsa-signed-jwt-token",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Misplaced Signature File",
+        "active": true,
+        "description": "Access a misplaced <a href=\"https://github.com/Neo23x0/sigma\">SIEM signature</a> file.",
+        "entity_iso_code": "NP",
+        "category": "Difficulty 4",
+        "points": 700,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "b9263160f81d18dc69161db7ffb8a2d622bf1755",
+        "hint": "You need to trick a security mechanism into thinking that the file you want has a valid file type.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/roll-your-own-security.html#access-a-misplaced-siem-signature-file",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Deprecated Interface",
+        "active": true,
+        "description": "Use a deprecated B2B interface that was not properly shut down.",
+        "entity_iso_code": "MA",
+        "category": "Difficulty 2",
+        "points": 250,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "5fd213c8fc772846b262c307eaaa901340a195bb",
+        "hint": "The developers who disabled the interface think they could go invisible by just closing their eyes.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/forgotten-content.html#use-a-deprecated-b2b-interface-that-was-not-properly-shut-down",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "XXE Tier 1",
+        "active": true,
+        "description": "Retrieve the content of <code>C:\\Windows\\system.ini</code> or <code>/etc/passwd</code> from the server. <em>(This challenge is <strong>not available</strong> on Heroku!)</em>",
+        "entity_iso_code": "IQ",
+        "category": "Difficulty 3",
+        "points": 450,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "13647ef0eb32713c6e6064f4b3d62abe81425841",
+        "hint": "The leverage point for this challenge is the deprecated B2B interface.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/xxe.html#retrieve-the-content-of-cwindowssystemini-or-etcpasswd-from-the-server",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "XXE Tier 2",
+        "active": true,
+        "description": "Give the server something to chew on for quite a while. <em>(This challenge is <strong>not available</strong> on Heroku!)</em>",
+        "entity_iso_code": "CN",
+        "category": "Difficulty 5",
+        "points": 1000,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "3c5c6408e9d589e6829a4ea55891ccb76f155b05",
+        "hint": "It is not as easy as sending a large amount of data directly to the deprecated B2B interface.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/xxe.html#give-the-server-something-to-chew-on-for-quite-a-while",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "RCE Tier 1",
+        "active": true,
+        "description": "Perform a Remote Code Execution that would keep a less hardened application busy <em>forever</em>.",
+        "entity_iso_code": "BR",
+        "category": "Difficulty 5",
+        "points": 1000,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "38e329aab0dcf54e00b4ae686b58546b3e2eb55d",
+        "hint": "The feature you need to exploit for this challenge is not directly advertised anywhere.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/insecure-deserialization.html#perform-a-remote-code-execution-that-would-keep-a-less-hardened-application-busy-forever",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "RCE Tier 2",
+        "active": true,
+        "description": "Perform a Remote Code Execution that occupies the server for a while without using infinite loops.",
+        "entity_iso_code": "IN",
+        "category": "Difficulty 6",
+        "points": 1350,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "54dfb9d1da8fc88a73da571dcabaa61100da873e",
+        "hint": "Your attack payload must not trigger the protection against too many iterations.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/insecure-deserialization.html#perform-a-remote-code-execution-that-occupies-the-server-for-a-while-without-using-infinite-loops",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Blockchain Tier 1",
+        "active": true,
+        "description": "Learn about the Token Sale before its official announcement.",
+        "entity_iso_code": "GB",
+        "category": "Difficulty 5",
+        "points": 1000,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "efaa5b7dd30dbed73d118ad0f75d8cfc0ae930e1",
+        "hint": "The developers truly believe in \"Security through Obscurity\" over actual access restrictions.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/security-through-obscurity.html#learn-about-the-token-sale-before-its-official-announcement",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Security Policy",
+        "active": true,
+        "description": "Behave like any \"white-hat\" should.",
+        "entity_iso_code": "ES",
+        "category": "Difficulty 2",
+        "points": 250,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "980d88a684fbf348f5812fc06fbfab2d8f66c76d",
+        "hint": "Undoubtably you want to read our security policy before conducting any research on our application.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/roll-your-own-security.html#behave-like-any-white-hat-should",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Steganography Tier 1",
+        "active": true,
+        "description": "<a href=\"/#/contact\">Rat out</a> a notorious character hiding in plain sight in the shop. (Mention the exact name of the character)",
+        "entity_iso_code": "LT",
+        "category": "Difficulty 4",
+        "points": 700,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "f516aab159c900435858f257d25e4429c9cf2260",
+        "hint": "No matter how good your eyes are, you will need tool assistance for this challenge.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/security-through-obscurity.html#rat-out-a-notorious-character-hiding-in-plain-sight-in-the-shop",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Supply Chain Attack",
+        "active": true,
+        "description": "<a href=\"/#/contact\">Inform the development team</a> about a danger to some of <em>their</em> credentials. (Send them the URL of the <em>original report</em> or the CVE of this vulnerability)",
+        "entity_iso_code": "TG",
+        "category": "Difficulty 5",
+        "points": 1000,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "05a4bcdca9809df4506551b5b1f229fd55157572",
+        "hint": "This vulnerability will not affect any customer of the shop. It is aimed exclusively at its developers.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/broken-authentication.html#inform-the-development-team-about-a-danger-to-some-of-their-credentials",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Christmas Special",
+        "active": true,
+        "description": "Order the Christmas special offer of 2014.",
+        "entity_iso_code": "FK",
+        "category": "Difficulty 4",
+        "points": 700,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "929646db81fdde9492b64f2d3c5fa0a3da182ad7",
+        "hint": "Find out how the application handles unavailable products and try to find a loophole.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/injection.html#order-the-christmas-special-offer-of-2014",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "User Credentials",
+        "active": true,
+        "description": "Retrieve a list of all user credentials via SQL Injection",
+        "entity_iso_code": "SK",
+        "category": "Difficulty 4",
+        "points": 700,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "b2bbb412cd027095df70fa3ca8d61ad0e101406e",
+        "hint": "Craft a UNION SELECT attack string against an endpoint that offers an unnecessary way to filter data.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/injection.html#retrieve-a-list-of-all-user-credentials-via-sql-injection",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Admin Registration",
+        "active": true,
+        "description": "Get registered as admin user.",
+        "entity_iso_code": "JA",
+        "category": "Difficulty 3",
+        "points": 450,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "adf858a9828123061257cba29e3f34da87b23962",
+        "hint": "Assign the unassignable.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/improper-input-validation.html#get-registered-as-admin-user",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "XSS Tier 0",
+        "active": true,
+        "description": "Perform a <i>reflected</i> XSS attack with <code>&lt;iframe src=\"javascript:alert(`xss`)\"&gt;</code>.",
+        "entity_iso_code": "UY",
+        "category": "Difficulty 1",
+        "points": 100,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "72dda75a3b08323f926940cdce8b5dc2c6cba428",
+        "hint": "Look for an input field where its content appears in the response HTML when its form is submitted.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/xss.html#perform-a-reflected-xss-attack",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "XSS Tier 1",
+        "active": true,
+        "description": "Perform a <i>DOM</i> XSS attack with <code>&lt;iframe src=\"javascript:alert(`xss`)\"&gt;</code>.",
+        "entity_iso_code": "DE",
+        "category": "Difficulty 1",
+        "points": 100,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "0ed034597829f84a8a7cc5aff0b1d1afc316418c",
+        "hint": "Look for an input field where its content appears in the HTML when its form is submitted.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/xss.html#perform-a-reflected-xss-attack",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "XSS Tier 2",
+        "active": true,
+        "description": "Perform a <i>persisted</i> XSS attack with <code>&lt;iframe src=\"javascript:alert(`xss`)\"&gt;</code> bypassing a <i>client-side</i> security mechanism.",
+        "entity_iso_code": "MM",
+        "category": "Difficulty 3",
+        "points": 450,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "d39f6a368e8f5e1b9b031c1fa7c3ee37355e8574",
+        "hint": "Only some input fields validate their input. Even less of these are persisted in a way where their content is shown on another screen.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/xss.html#perform-a-persisted-xss-attack-bypassing-a-client-side-security-mechanism",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "XSS Tier 3",
+        "active": true,
+        "description": "Perform a <i>persisted</i> XSS attack with <code>&lt;iframe src=\"javascript:alert(`xss`)\"&gt;</code> without using the frontend application at all.",
+        "entity_iso_code": "PY",
+        "category": "Difficulty 3",
+        "points": 450,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "b3a4e6f5bc57590bef2443d0c25f6c40223c5c98",
+        "hint": "You need to work with the server-side API directly. Try different HTTP verbs on different entities exposed through the API.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/xss.html#perform-a-persisted-xss-attack-without-using-the-frontend-application-at-all",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "XSS Tier 4",
+        "active": true,
+        "description": "Perform a <i>persisted</i> XSS attack with <code>&lt;iframe src=\"javascript:alert(`xss`)\"&gt;</code> bypassing a <i>server-side</i> security mechanism.",
+        "entity_iso_code": "CR",
+        "category": "Difficulty 4",
+        "points": 700,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "bd15d151880a30c4885fca30a3eb8e133c491c46",
+        "hint": "The \"Comment\" field in the \"Contact Us\" screen is where you want to put your focus on.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/xss.html#perform-a-persisted-xss-attack-bypassing-a-server-side-security-mechanism",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "CSRF",
+        "active": true,
+        "description": "Change Bender's password into <i>slurmCl4ssic</i> without using SQL Injection or Forgot Password.",
+        "entity_iso_code": "SR",
+        "category": "Difficulty 5",
+        "points": 1000,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "7f2af07e0e0ac2c54e8ae0665b4aa68762ba63af",
+        "hint": "The fact that the name of this challenge is \"CSRF\" is already a huge hint.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/broken-authentication.html#change-benders-password-into-slurmcl4ssic-without-using-sql-injection-or-forgot-password",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "XSS Tier 5",
+        "active": true,
+        "description": "Perform a <i>persisted</i> XSS attack with <code>&lt;iframe src=\"javascript:alert(`xss`)\"&gt;</code> through an HTTP header.",
+        "entity_iso_code": "PR",
+        "category": "Difficulty 4",
+        "points": 700,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "df9c3b885c95c908261bd5898353e2752a06a692",
+        "hint": "Finding a piece of displayed information that could originate from an HTTP header is the part of this challenge.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/xss.html#perform-a-persisted-xss-attack-through-an-http-header",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Multiple Likes",
+        "active": true,
+        "description": "Like any review at least three times as the same user.",
+        "entity_iso_code": "EG",
+        "category": "Difficulty 6",
+        "points": 1350,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "ec7840f71a70dac3908a7ab0f8c5b58eb986e892",
+        "hint": "Punctuality is the politeness of kings.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/race-condition.html#like-any-review-at-least-three-times-as-the-same-user",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "SSTi",
+        "active": true,
+        "description": "Infect the server with juicy malware by abusing arbitrary command execution. <em>(This challenge is <strong>not available</strong> on Heroku!)</em>",
+        "entity_iso_code": "ID",
+        "category": "Difficulty 6",
+        "points": 1350,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "4a08ddbd93e970fd7cdca4f2fc940f6fc35dc7d8",
+        "hint": "The search for a personal identity is the life of a man.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/injection.html#infect-the-server-with-malware-by-abusing-arbitrary-command-execution",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "SSRF",
+        "active": true,
+        "description": "Request a hidden resource on server through server.",
+        "entity_iso_code": "TH",
+        "category": "Difficulty 6",
+        "points": 1350,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "cd689fc32a8e1288a9b762aebacd9756f8c78ab5",
+        "hint": "Reverse the Bad and it gets Good again.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/broken-access-control.html#request-a-hidden-resource-on-server-through-server",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Login Amy",
+        "active": true,
+        "description": "Log in with Amy's original user credentials. (This could take 93.83 billion trillion trillion centuries to brute force, but luckily she did not read the \"One Important Final Note\")",
+        "entity_iso_code": "AD",
+        "category": "Difficulty 3",
+        "points": 450,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "5444962659bf8d72f6322530b18d6b9123fbaeec",
+        "hint": "This challenge will make you go after a needle in a haystack.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/sensitive-data-exposure.html#log-in-with-amys-original-user-credentials",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Reset Bjoern's Password Tier 1",
+        "active": true,
+        "description": "Reset the password of Bjoern's OWASP account via the <a href=\"/#/forgot-password\">Forgot Password</a> mechanism with <i>the original answer</i> to his security question.",
+        "entity_iso_code": "KZ",
+        "category": "Difficulty 3",
+        "points": 450,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "bccfe38dd85ca915c507c3d9b0de8c7fe04630d2",
+        "hint": "He might have spoilered it on at least one occasion where a camera was running. Maybe elsewhere as well.\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/broken-authentication.html#reset-the-password-of-bjoerns-owasp-account-via-the-forgot-password-mechanism",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      },
+      {
+        "type": "flag",
+        "title": "Access Log",
+        "active": true,
+        "description": "Gain access to any access log file of the server.",
+        "entity_iso_code": "SG",
+        "category": "Difficulty 4",
+        "points": 700,
+        "bonus": 0,
+        "bonus_dec": 0,
+        "bonus_fix": 0,
+        "flag": "ba33e22ac92492931305ea3483a3a0c8210e9ddb",
+        "hint": "Who would want a server access log to be accessible through a web application?\nhttps://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/sensitive-data-exposure.html#gain-access-to-any-access-log-file-of-the-server",
+        "penalty": 0,
+        "links": [],
+        "attachments": []
+      }
+    ]
+  }
+}
