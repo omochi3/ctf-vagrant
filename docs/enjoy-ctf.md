@@ -56,7 +56,7 @@ Webサイトと脆弱性の基礎を理解できたら、脆弱性を探すた�
 
 特定の脆弱性には発現するセオリーが存在します。それらチートシートをまとめたサイトを紹介します。
 
-- [SQL Injection Cheat Sheet | Netsparker](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
+- [SQL Injection Cheat Sheet - Netsparker](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
 - [OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries)
 
 ### その他
@@ -66,7 +66,7 @@ Webサイトと脆弱性の基礎を理解できたら、脆弱性を探すた�
 また様々なパラメーターをWebアプリにリクエストし、そのレスポンスから脆弱性を自動で探し出すツールなどもあります。
 
 - [Fiddler - Free Web Debugging Proxy - Telerik](https://www.telerik.com/fiddler)
-- [Burp Suite Scanner | PortSwigger](https://portswigger.net/burp)
+- [Burp Suite Scanner - PortSwigger](https://portswigger.net/burp)
 - [OWASP Zed Attack Proxy Project - OWASP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
 
 ---
