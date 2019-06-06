@@ -1,4 +1,4 @@
-# (OWASP Juice Shop
+# OWASP Juice Shop
 
 <https://github.com/bkimminich/juice-shop>
 
