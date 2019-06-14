@@ -43,9 +43,10 @@ Web サイトと脆弱性の基礎を理解できたら、脆弱性を探すた�
 ### ブラウザーの開発者ツール
 
 ブラウザーには開発者ツールと呼ばれる HTML や JavaScript などを調査・編集・デバッグする機能が実装されています。
-ここでは Firefox の開発者ツールを紹介しますが、主要なブラウザーであれば同様の機能が実装されています。
+ここでは Firefox とChrome の開発者ツールを紹介しますが、主要なブラウザーであれば同様の機能が実装されています。
 
 - [開発ツール - MDN](https://developer.mozilla.org/ja/docs/Tools)
+- [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/?hl=ja)
 
 ### チートシート
 
