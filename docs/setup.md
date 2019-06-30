@@ -73,7 +73,7 @@ choco update -y all
 1. [App name] を入力して、[Deploy app] ボタンをクリックする (10 分程度で完了する)
 1. [View] ボタンをクリックして正常に Deploy できていることを確認する
 
-CTF で使用する場合、専用の設定を行う。
+CTF で使用する場合、専用の設定を行う必要があります。
 
 1. [Manage App] ボタンをクリックして、ダッシュボードを表示する
 1. "Settings" > "Config Vars" > "Reveal Config Vars" の [KEY] に `NODE_ENV` を、 [VALUE] に **次の値** を入力して [Add] ボタンをクリックする
