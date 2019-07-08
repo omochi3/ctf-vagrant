@@ -11,10 +11,9 @@ apt-get install -qy apache2 docker-engine
 
 # Download and start docker image with Juice Shop
 docker pull bkimminich/juice-shop
-docker run --restart=always -d -p 3000:3000 --name juice-shop_0 -e "NODE_ENV=ctf" bkimminich/juice-shop
-docker run --restart=always -d -p 3001:3000 --name juice-shop_1 -e "NODE_ENV=ctf" bkimminich/juice-shop
-docker run --restart=always -d -p 3002:3000 --name juice-shop_2 -e "NODE_ENV=ctf" bkimminich/juice-shop
-docker run --restart=always -d -p 3003:3000 --name juice-shop_3 -e "NODE_ENV=ctf" bkimminich/juice-shop
+docker run --restart=always -d -p 3000:3000 --name juice-shop_0 -e "NODE_ENV=fbctf" bkimminich/juice-shop
+docker run --restart=always -d -p 3001:3000 --name juice-shop_1 -e "NODE_ENV=fbctf" bkimminich/juice-shop
+docker run --restart=always -d -p 3002:3000 --name juice-shop_2 -e "NODE_ENV=fbctf" bkimminich/juice-shop
 
 # Put the relevant files in place
 cp /tmp/juice-shop/default.conf /etc/apache2/sites-available/000-default.conf
